@@ -1,0 +1,29 @@
+@font-face {
+    font-family: Poppins-Bold;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: Poppins-BoldItalic;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-BoldItalic.ttf');
+}
+
+@font-face {
+    font-family: Poppins-ExtraBoldf;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: Poppins-ExtraBoldItalic;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-ExtraBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Italic;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-Italic.ttf');
+}
+
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('/Users/Leopold/Library/Fonts/Poppins-Regular.ttf');
+}
