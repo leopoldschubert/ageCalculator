@@ -6,8 +6,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>age calculator</title>
     <link href="./styles.css" rel="stylesheet">
+    <script src="./script.js" defer></script>
 </head>
 <body>
-    <h1>Hallo</h1>
+    <div id="outer-container">
+        <div id="upper-section">
+            <div class="box" id="day">
+                <h2 id="day-header">DAY</h2>
+                <input id="day-input">
+                <p id="day-text"></br></p>
+            </div>
+            <div class="box" id="month">
+                <h2 id="month-header">MONTH</h2>
+                <input id="month-input">
+                <p id="month-text"></br></p>
+            </div>
+            <div class="box" id="year">
+                <h2 id="year-header">YEAR</h2>
+                <input id="year-input">
+                <p id="year-text"></br></p>
+            </div>
+            <div class="box" id="check">check</div>
+        </div>
+        <div id="lower-section">
+            <h1><span class="big" id="years">--</span> years</h1>
+            <h1><span class="big" id="months">--</span> months</h1>
+            <h1><span class="big" id="days">--</span> days</h1>
+        </div>
+    </div>
 </body>
+
 </html>

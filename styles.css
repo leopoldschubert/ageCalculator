@@ -27,3 +27,70 @@
     font-family: Poppins-Regular;
     src: url('/Users/Leopold/Library/Fonts/Poppins-Regular.ttf');
 }
+
+
+
+html {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Poppins-Bold;
+}
+
+body {
+    width: 800px;
+    height: 600px;
+    background-color: white;
+}
+
+.box {
+    display: inline-block;
+    width: 20%;
+    margin: 0;
+    margin: 10px;
+}
+
+#upper-section {
+    border-bottom: 1px solid grey;
+    height: 25%;
+}
+
+#outer-container {
+    margin: 40px;
+}
+
+h2 {
+    margin: 0;
+    font-family: Poppins-Regular;
+    font-size: 15px;
+}
+
+#lower-section {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#check {
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    font-size: 12px;
+}
+
+h1 {
+    font-family: Poppins-ExtraBoldItalic;
+    font-size: 80px;
+    margin: 0;
+    padding: 0;
+}
+
+.big {
+    color: rgb(155, 0, 175)
+}
+
